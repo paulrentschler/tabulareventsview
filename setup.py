@@ -3,9 +3,9 @@ import os
 
 version = '1.0'
 
-setup(name='TabularEventView',
+setup(name='TabularEventsView',
       version=version,
-      description="Tabular Event View",
+      description="Tabular Events View",
       long_description=open("README.txt").read() + "\n" +
                        open("CHANGES.txt").read(),
       # Get more strings from

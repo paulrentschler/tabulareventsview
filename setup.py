@@ -13,7 +13,7 @@ setup(name='TabularEventsView',
       classifiers=[
         "Framework :: Plone",
         "Programming Language :: Python",
-        ]
+        ],
       keywords='',
       author="Paul Rentschler",
       author_email="paul@rentschler.ws",

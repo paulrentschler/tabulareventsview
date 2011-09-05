@@ -1,0 +1,6 @@
+<layers>
+ <layer
+     name="tabulareventview"
+     interface="TabularEventView.interfaces.ITabularEventView"
+     />
+</layers>

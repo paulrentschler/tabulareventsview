@@ -17,8 +17,6 @@ class TabularEventsView(BrowserView):
         self.context = context
         self.request = request
         
-        site_properties = getToolByName(self.context, 'portal_properties').get("site_properties")
-        day_format = site_properties.localTimeFormat
 
 
     def getBodyText(self):

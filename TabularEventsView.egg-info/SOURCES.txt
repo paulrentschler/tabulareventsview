@@ -1,0 +1,13 @@
+README.txt
+setup.py
+TabularEventsView/__init__.py
+TabularEventsView/configure.py
+TabularEventsView/interfaces.py
+TabularEventsView/views.py
+TabularEventsView.egg-info/PKG-INFO
+TabularEventsView.egg-info/SOURCES.txt
+TabularEventsView.egg-info/dependency_links.txt
+TabularEventsView.egg-info/entry_points.txt
+TabularEventsView.egg-info/not-zip-safe
+TabularEventsView.egg-info/requires.txt
+TabularEventsView.egg-info/top_level.txt

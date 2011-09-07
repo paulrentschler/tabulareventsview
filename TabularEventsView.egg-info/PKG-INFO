@@ -1,0 +1,23 @@
+Metadata-Version: 1.0
+Name: TabularEventsView
+Version: 1.0
+Summary: Tabular Events View
+Home-page: http://paul.rentschler.ws
+Author: Paul Rentschler
+Author-email: paul@rentschler.ws
+License: GPL
+Description: Introduction
+        ============
+        
+        Tabular view of event objects in Plone folders and collections.
+        
+        Changelog
+        =========
+        
+        1.0 - 2011-09-05
+        ----------------
+        - Initial release
+        
+Platform: UNKNOWN
+Classifier: Framework :: Plone
+Classifier: Programming Language :: Python

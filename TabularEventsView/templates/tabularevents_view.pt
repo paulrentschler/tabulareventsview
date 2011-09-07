@@ -20,7 +20,7 @@
                  i18n:attributes="summary summary_content_listing;">
             <thead>
               <tr>
-                <th>&nbps;When&nbps;</th>
+                <th>&nbsp;When&nbsp;</th>
                 <th>&nbsp;Who/What&nbsp;</th>
                 <th>&nbsp;Where&nbsp;</th>
               </tr>
@@ -43,7 +43,7 @@
                                     endDay       python:toLocalizedTime(ends, long_format=0);
                                     location     python:item.location.strip();
                                     "
-                        tal:attributes="class python:test(oddrow, 'even', 'odd')">
+                        tal:attributes="class python:oddrow and 'even' or 'odd'">
                     
                       <td>
                         <span class="eventDateTime">

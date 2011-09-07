@@ -1,7 +1,6 @@
 README.txt
 setup.py
 TabularEventsView/__init__.py
-TabularEventsView/configure.py
 TabularEventsView/interfaces.py
 TabularEventsView/views.py
 TabularEventsView.egg-info/PKG-INFO
